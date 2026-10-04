@@ -32,7 +32,7 @@ In this design project, we used the level editor from the game *Baba Is You* to 
 
 ## Installation
 
-We will show the code for every level we make on the sepcific part
+The specific sections for each level will show the code needed to access the levels in the game.
 
 ## How to play
 ### Controls
@@ -65,7 +65,7 @@ We wanted to take a different approach and use gravity as the main mechanic to p
 ## Level 1: Ki (Introduction)
 
 <p align="center">
-    <img src="ReadmeResources/level1Show.png" alt="1" width="600">
+    <img src="ReadmeResources/level1Show.png" alt="1" width="700">
 </p>
 
 <p align="center"><em>Level Code: ZNEM-TBCQ </em></p>
@@ -95,7 +95,7 @@ The mirrors connect both areas, and the boxes can fall, forming platforms or mak
 ## Level 2: Sho-Ten (Extra Complexity)
 
 <p align="center">
-    <img src="ReadmeResources/level2Show.png" alt="2" width="600">
+    <img src="ReadmeResources/level2Show.png" alt="2" width="700">
 </p>
 
 <p align="center"><em>Level Code: ZNEM-TBCQ </em></p>
@@ -116,7 +116,7 @@ their area. There are hazardous areas, such as mushrooms, that force the player 
 ## Level 3: Ketsu (Consolidation)
 
 <p align="center">
-    <img src="ReadmeResources/level3Show.png" alt="3" width="600">
+    <img src="ReadmeResources/level3Show.png" alt="3" width="700">
 </p>
 
 <p align="center"><em>Level Code: 6XF1-RH14 </em></p>
