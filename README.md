@@ -4,6 +4,7 @@
 
 ## Description
 
+In this design project, we used the level editor from the game *Baba Is You* to create our own levels based on the Kishotenketsu progression, gradually introducing new mechanics.
 
 ## Trailer/Demo
 
@@ -11,17 +12,17 @@
   <tr>
     <td align="center">
       <a href="https://youtu.be/CCbnhsYesuU">
-        <img src="ReadmeResources/Level1.png" alt="Level1" width="265">
+        <img src="ReadmeResources/level1.png" alt="Level1" width="600">
       </a>
     </td>
     <td align="center">
       <a href="https://youtu.be/SD32X1FTaAk">
-        <img src="ReadmeResources/Level2.png" alt="Level2" width="265">
+        <img src="ReadmeResources/Level2.png" alt="Level2" width="600">
       </a>
     </td>
     <td align="center">
       <a href="https://youtu.be/1MuZEafsCuY">
-        <img src="ReadmeResources/Level3.png" alt="Level3" width="265">
+        <img src="ReadmeResources/level3.png" alt="Level3" width="600">
       </a>
     </td>
   </tr>
@@ -43,19 +44,20 @@ We will show the code for every level we make on the sepcific part
 ## Inspiration
 
 “Baba Is You” is a puzzle game in which the rules you must follow are represented by blocks that you can interact with. By manipulating these blocks, you can change the course of the game. 
+
 We wanted to take a different approach and use gravity as the main mechanic to put a new spin on it and turn it into a platformer. Our main inspirations were *Donkey Kong* (1981)—which blends the arcade platforming aspect very well with the visual style of *Baba Is You*—and *Soukoban* for the puzzles featuring pushable elements.
 
-<table>
+<table align="center">
   <tr>
     <th>Donkey Kong (1981)</th>
     <th>Sokoban</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="ReadmeResources/Donkey.png" alt="Game1" width="520">
+      <img src="ReadmeResources/Donkey.png" alt="Game1" width="300">
     </td>
     <td align="center">
-      <img src="ReadmeResources/Sokoban.png" alt="Game2" width="500">
+      <img src="ReadmeResources/Soukoban.png" alt="Game2" width="300">
     </td>
   </tr>
 </table>
@@ -63,7 +65,7 @@ We wanted to take a different approach and use gravity as the main mechanic to p
 ## Level 1: Ki (Introduction)
 
 <p align="center">
-    <img src="ReadmeResources/Level1Show.png" alt="1" width="400">
+    <img src="ReadmeResources/level1Show.png" alt="1" width="600">
 </p>
 
 <p align="center"><em>Level Code: ZNEM-TBCQ </em></p>
@@ -93,7 +95,7 @@ The mirrors connect both areas, and the boxes can fall, forming platforms or mak
 ## Level 2: Sho-Ten (Extra Complexity)
 
 <p align="center">
-    <img src="ReadmeResources/Level2Show.png" alt="2" width="400">
+    <img src="ReadmeResources/level2Show.png" alt="2" width="600">
 </p>
 
 <p align="center"><em>Level Code: ZNEM-TBCQ </em></p>
@@ -114,7 +116,7 @@ their area. There are hazardous areas, such as mushrooms, that force the player 
 ## Level 3: Ketsu (Consolidation)
 
 <p align="center">
-    <img src="ReadmeResources/Level3Show.png" alt="3" width="400">
+    <img src="ReadmeResources/level3Show.png" alt="3" width="600">
 </p>
 
 <p align="center"><em>Level Code: 6XF1-RH14 </em></p>
